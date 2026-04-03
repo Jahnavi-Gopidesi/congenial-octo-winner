@@ -1,3 +1,3 @@
 # congenial-octo-winner
 First Git Repository
-Author-Jahnavi Gopidesi
+Author-Jahnavi Sridhar
